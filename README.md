@@ -12,7 +12,7 @@ Real-ESSI postprocessors
 ****This script was created for the needs of the paper with title: Dynamic Structure-Soil-Structure Interaction for Nuclear Power Plants****
 
 <p align="center">
-  <img src="https://github.com/ConstantinosKanellopoulos/images_for_my_repo/blob/master/NPP_reactor_tied_and_nonlinear_interfaces_filtered.png =250x250">
+  <img src="https://github.com/ConstantinosKanellopoulos/images_for_my_repo/blob/master/NPP_reactor_tied_and_nonlinear_interfaces_filtered.png" width="300" height="400" >
 </p>
 
 
