@@ -19,7 +19,7 @@ Real-ESSI postprocessors
 <strong>Figure: Snapshots of filtered displacement contours (10-13 Hz) for nonlinear (left) and tied (right) soil-NPP reactor building interfaces.</strong>
 </p> -->
 
-- [print_node_element_output.py](print_node-or-element_outputs/print_node_element_output.py) is a python script that reads [Real-ESSI](http://real-essi.info/) output files (.feioutput) and generates a multiple_results.txt file with the requested node/element output(s) (e.g. acceleration time history of the requested node in x direction).
+- [print_node_element_output.py](print_node-or-element_outputs/print_node_element_output.py) is a python script that reads [Real-ESSI](http://real-essi.info/) output files (.feioutput) and generates a multiple_results.txt file with the requested node/element output(s) (e.g. acceleration time history of the requested node in x direction). For more information refer to [print_node_element_output.py](print_node-or-element_outputs/print_node_element_output.py).
 
 
 ### Required software
