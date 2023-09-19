@@ -14,10 +14,9 @@ Real-ESSI postprocessors
 <p align="center">
   <img src="https://github.com/ConstantinosKanellopoulos/images_for_my_repo/blob/master/NPP_reactor_tied_and_nonlinear_interfaces_filtered.png" width="500" height="300" >
 </p>
-<p align="center">
+
 **Figure: Snapshots of filtered displacement contours (10-13 Hz) for nonlinear (left) and tied (right) soil-NPP reactor building interfaces.**
-</p>
-**Figure: Snapshots of filtered displacement contours (10-13 Hz) for nonlinear (left) and tied (right) soil-NPP reactor building interfaces.**
+
 ### Required software
 
 - python
