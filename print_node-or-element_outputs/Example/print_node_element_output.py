@@ -1,6 +1,6 @@
 # ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# general_postprocess.py : python script that reads Real-ESSI output files (.feioutput) and saves in the multiple_results.txt file the requested quantity of interest (e.g., acceleration/
-#                          displacement time history of a node in x direction)
+# print_node_element_output.py : python script that reads Real-ESSI output files (.feioutput) and saves in the multiple_results.txt file the requested quantity of interest (e.g., acceleration/
+#                                displacement time history of a node in x direction)
 # ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Useful reference: Lecture notes of Boris Jeremic (http://sokocalo.engr.ucdavis.edu/~jeremic/LectureNotes/Jeremic_et_al_CompMech_LectureNotes.pdf)
 # ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

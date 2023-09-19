@@ -1,5 +1,5 @@
 # ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# create_vtu_for_paraview.py : python script that reads Real-ESSI output files (.feioutput), filters (if requested) the displacements, and creates .vtu files for ParaView
+# generate_vtu.py : python script that reads Real-ESSI output files (.feioutput), filters (if requested) the displacements, and creates .vtu files for ParaView
 # ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # authors: Constantinos Kanellopoulos and Giulia Aguzzi(2023)
 # Chair of Structural Dynamics and Earthquake Engineering, Chair of Structural Mechanics
@@ -283,7 +283,7 @@ np.set_printoptions(threshold=sys.maxsize)
 ###########################################################################################   INPUT DATA TO CHANGE - START 
 ###########################################################################################
 
-total_number_of_elements = 151
+total_number_of_elements = 144
 
 #solid_elements
 start_element = 1      # put 0 if no solid elements exist
@@ -293,14 +293,14 @@ solid_elems_tags = np.arange(start_element, end_element+1, 1, dtype=int)
 # print(solid_elems_tags)
 
 #beam_elements
-start_element = 145      # put 0 if no solid elements exist
-end_element = 148      # put 0 if no solid elements exist
+start_element = 0      # put 0 if no solid elements exist
+end_element = 0      # put 0 if no solid elements exist
 beam_elems_tags = np.arange(start_element, end_element+1, 1, dtype=int)
 # print(beam_elems_tags)
 
 #bonded_contact_elements
-start_element = 149      # put 0 if no solid elements exist
-end_element = 151      # put 0 if no solid elements exist
+start_element = 0      # put 0 if no solid elements exist
+end_element = 0      # put 0 if no solid elements exist
 bonded_elems_tags = np.arange(start_element, end_element+1, 1, dtype=int)
 # print(bonded_elems_tags)
 
@@ -310,14 +310,14 @@ end_element = 0      # put 0 if no quad elements exist
 quad_elems_tags = np.arange(start_element, end_element+1, 1, dtype=int)
 # print(quad_elems_tags)
 
-filename = "hexahedron_line_DRM"   # give the name of the loading stage
+filename = "hexahedron_DRM"   # give the name of the loading stage
 enable_relative_displacements = 1   # 1: reset displacements to zero at the beginning of the requested loading stage, 0: keep displacments from previous loading stage
 
 # filter related parameters
 filter_OnOff = 1;               # 0: disable filter, 1: enable filter
 Fmin = 5;                       # minumum pass frequency
 Fmax = 10;                      # maximum pass frequency
-interpolation_check_node = 246  # give a node of interest to see the result of filter and interpolation functions on it (3 figures will be plotted)
+interpolation_check_node = 158  # give a node of interest to see the result of filter and interpolation functions on it (3 figures will be plotted)
 ts_interpolation = 0.0025       # time step of interpolation
 
 ###########################################################################################
