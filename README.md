@@ -7,7 +7,7 @@ Real-ESSI postprocessors
 
 ### Description
 
-[generate_mesh.py](./generate_mesh.py) is a python script that integrates [Gmsh](https://gmsh.info/) library and parametrically generates a 3D mesh file (mesh.msh2) of a Nuclear Power Plant (NPP) on soil consisting of a Reactor building at the center surrounded by an Auxiliary building. The user can enable or disable the generation of either buildings. The buildings can be embedded or not embedded into the soil. Optionally, Seismic Resonant Metamaterials can be generated around the Auxiliary building. For more information refer to [generate_mesh.py](./generate_mesh.py).
+- [generate_vtu.py](./generate_vtu_files/generate_vtu.py) is a python script that extracts all nodal displacements from [Real-ESSI](http://real-essi.info/) output files (.feioutput), applies (if requested) a frequency filter, and finally creates .vtu files to visualize displacements in [ParaView](https://www.paraview.org/). For more information refer to [generate_vtu.py](./generate_vtu_files/generate_vtu.py).
 
 ****This script was created for the needs of the paper with title: Dynamic Structure-Soil-Structure Interaction for Nuclear Power Plants****
 
