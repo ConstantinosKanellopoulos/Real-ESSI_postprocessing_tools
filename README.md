@@ -43,7 +43,7 @@ An example figure from the paper after postpressing the output files with [gener
   </a>
 </p>
 
-
+---
 
 ## Required software
 
