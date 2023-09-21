@@ -8,7 +8,7 @@ Real-ESSI postprocessors
 
 This script was initially created for the needs of the paper: 
 <p align="center">
-**Dynamic Structure-Soil-Structure Interaction for Nuclear Power Plants**
+<strong>"Dynamic Structure-Soil-Structure Interaction for Nuclear Power Plants"</strong>
 </p>
 
 <p align="center">
