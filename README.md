@@ -33,8 +33,12 @@ An example figure from the paper after postpressing the output files with [gener
 >[!IMPORTANT]
 >This script was initially created for the needs of the paper: 
 
-<p align="center">
+<!-- <p align="center">
   <strong><a href="https://doi.org/10.1016/j.soildyn.2022.107366">Seismic resonant metamaterials for the protection of an elastic-plastic SDOF system against vertically propagating seismic shear waves (SH) in nonlinear soil</a></strong>
+</p> -->
+
+<p align="center">
+  <strong>" Seismic resonant metamaterials for the protection of an elastic-plastic SDOF system against vertically propagating seismic shear waves (SH) in nonlinear soil "</strong>
 </p>
 
 <p align="center">
