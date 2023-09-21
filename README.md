@@ -55,7 +55,7 @@ An example figure from the paper after postpressing the output files with [gener
   - [python](https://www.python.org/)
   - [ParaView](https://www.paraview.org/)
 
-- for [print_node_element_output.py](print_node-or-element_outputs/print_node_element_output.py)
+- for [print_node_element_output.py](print_node-or-element_outputs/print_node_element_output.py) :
   - [python](https://www.python.org/)
 
 
