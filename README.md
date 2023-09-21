@@ -5,7 +5,7 @@
 
 ### generate_vtu.py
 
-<span style="color:blue">This is blue text.</span>
+<span style="color:#ff0066">This is blue text.</span>
 
 - [generate_vtu.py](./generate_vtu_files/generate_vtu.py) is a python script that extracts all nodal displacements from [Real-ESSI](http://real-essi.info/) output files (.feioutput), applies (if requested) a frequency filter, and finally generates .vtu files to visualize displacements in [ParaView](https://www.paraview.org/). For more information refer to [generate_vtu.py](./generate_vtu_files/generate_vtu.py).
 
