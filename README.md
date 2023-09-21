@@ -62,14 +62,14 @@ An example figure from the paper after postpressing the output files with [gener
 
 ## How to run
 
-- To run [generate_vtu.py](./generate_vtu_files/generate_vtu.py), simply open a terminal and type:
+- To run [generate_vtu.py](./generate_vtu_files/generate_vtu.py), simply open a terminal and type :
 
 ```bash
 python generate_vtu.py
 ```
 Note: The .feioutput files should be located one directory above (see in [Examples](./generate_vtu_files/Examples)).
 
-- To run [print_node_element_output.py](print_node-or-element_outputs/print_node_element_output.py), simply open a terminal and type:
+- To run [print_node_element_output.py](print_node-or-element_outputs/print_node_element_output.py), simply open a terminal and type :
 
 ```bash
 python print_node_element_output.py
