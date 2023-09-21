@@ -30,7 +30,7 @@ This script was initially created for the needs of the paper:
 </p>
 
 
-### Required software
+## Required software
 
 - for [generate_vtu.py](./generate_vtu_files/generate_vtu.py) :
   - [python](https://www.python.org/)
@@ -40,7 +40,7 @@ This script was initially created for the needs of the paper:
   - [python](https://www.python.org/)
 
 
-### How to run
+## How to run
 
 - To run [generate_vtu.py](./generate_vtu_files/generate_vtu.py), simply open a terminal and type:
 
@@ -57,7 +57,7 @@ python print_node_element_output.py
 Note: The .feioutput files should be located in the same directory (see [Example](./print_node-or-element_outputs/Example))
 
 
-### How to cite
+## How to cite
 
 - [generate_vtu.py](./generate_vtu_files/generate_vtu.py) :
 
@@ -65,13 +65,13 @@ Note: The .feioutput files should be located in the same directory (see [Example
 
 --
 
-### Licence
+## Licence
 
 [GNU General Public License v3.0](./COPYING)
 
 
 
-### Acknowledgement
+## Acknowledgement
 
 This research was part of the project '[INSPIRE](https://itn-inspire.eu/)' funded by the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement no. 813424. Additional support from [ETH Zurich](https://ethz.ch/en.html) is gratefully acknowledged.
 
