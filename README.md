@@ -80,7 +80,7 @@ Note: The .feioutput files should be located in the same directory (see [Example
 
 ## How to cite
 
-If you would like to cite any of the scripts, please give reference to the corresponding journal paper :
+> If you would like to cite any of the scripts, please give reference to the corresponding journal paper :
 
 - [generate_vtu.py](./generate_vtu_files/generate_vtu.py) :
 
