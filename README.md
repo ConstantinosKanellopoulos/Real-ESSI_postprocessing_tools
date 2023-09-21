@@ -21,7 +21,9 @@ Real-ESSI postprocessors
 
 ### Required software
 
-- python
+- for [generate_vtu.py](./generate_vtu_files/generate_vtu.py) :
+  - python
+  - ParaView
 
 
 ### How to run
