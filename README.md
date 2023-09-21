@@ -31,11 +31,13 @@ Real-ESSI postprocessors
 
 ### How to run
 
-To run this script, simply open a terminal and type:
+To run [generate_vtu.py](./generate_vtu_files/generate_vtu.py), simply open a terminal and type:
 
 ```bash
-python generate_mesh.py
+python generate_vtu.py
 ```
+
+Note: The .feioutput files should be located one directory above (as in [Examples](./generate_vtu_files/Examples))
 
 
 ### Licence
