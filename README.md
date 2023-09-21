@@ -8,7 +8,7 @@ Real-ESSI postprocessors
 
 This script was initially created for the needs of the paper: 
 <p align="center">
-<strong>"Dynamic Structure-Soil-Structure Interaction for Nuclear Power Plants"</strong>
+<strong>" Dynamic Structure-Soil-Structure Interaction for Nuclear Power Plants "</strong>
 </p>
 
 An example figure from the paper after postpressing the output files with [generate_vtu.py](./generate_vtu_files/generate_vtu.py) follows :
