@@ -1,8 +1,9 @@
 # Real-ESSI postprocessors
 
 
-
 ## Description
+
+# generate_vtu.py
 
 - [generate_vtu.py](./generate_vtu_files/generate_vtu.py) is a python script that extracts all nodal displacements from [Real-ESSI](http://real-essi.info/) output files (.feioutput), applies (if requested) a frequency filter, and finally generates .vtu files to visualize displacements in [ParaView](https://www.paraview.org/). For more information refer to [generate_vtu.py](./generate_vtu_files/generate_vtu.py).
 
@@ -21,6 +22,9 @@ An example figure from the paper after postpressing the output files with [gener
 <strong>Figure: Snapshots of filtered displacement contours (10-13 Hz) for nonlinear (left) and tied (right) soil-NPP reactor building interfaces.</strong>
 </p> -->
 
+
+# print_node_element_output.py
+
 - [print_node_element_output.py](print_node-or-element_outputs/print_node_element_output.py) is a python script that reads [Real-ESSI](http://real-essi.info/) output files (.feioutput) and generates a multiple_results.txt file with the requested node/element output(s) (e.g. acceleration time history of the requested node in x direction). For more information refer to [print_node_element_output.py](print_node-or-element_outputs/print_node_element_output.py).
 
 >[!IMPORTANT]
@@ -37,6 +41,7 @@ An example figure from the paper after postpressing the output files with [gener
 </p>
 
 
+
 ## Required software
 
 - for [generate_vtu.py](./generate_vtu_files/generate_vtu.py) :
@@ -45,6 +50,7 @@ An example figure from the paper after postpressing the output files with [gener
 
 - for [print_node_element_output.py](print_node-or-element_outputs/print_node_element_output.py)
   - [python](https://www.python.org/)
+
 
 
 ## How to run
@@ -64,13 +70,14 @@ python print_node_element_output.py
 Note: The .feioutput files should be located in the same directory (see [Example](./print_node-or-element_outputs/Example))
 
 
+
 ## How to cite
 
 - [generate_vtu.py](./generate_vtu_files/generate_vtu.py) :
 
 - [print_node_element_output.py](print_node-or-element_outputs/print_node_element_output.py) :  [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.soildyn.2022.107366-purple)](https://doi.org/10.1016/j.soildyn.2022.107366)
 
---
+
 
 ## Licence
 
