@@ -86,7 +86,7 @@ If you would like to cite any of the scripts, please give reference to the corre
 
 - [print_node_element_output.py](print_node-or-element_outputs/print_node_element_output.py) : 
 
-    :heavy_minus_sign: [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.soildyn.2022.107366-purple)](https://doi.org/10.1016/j.soildyn.2022.107366)
+    [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.soildyn.2022.107366-purple)](https://doi.org/10.1016/j.soildyn.2022.107366)
 
 
 
