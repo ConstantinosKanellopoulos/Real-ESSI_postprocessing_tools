@@ -29,7 +29,7 @@ This script was initially created for the needs of the paper:
 </p>
 
 
- 
+ [Seismic resonant metamaterials for the protection of an elastic-plastic SDOF system against vertically propagating seismic shear waves (SH) in nonlinear soil](https://doi.org/10.1016/j.soildyn.2022.107366)
 
 
 ### Required software
