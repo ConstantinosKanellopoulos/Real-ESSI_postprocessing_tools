@@ -60,7 +60,7 @@ Note: The .feioutput files should be located in the same directory (see [Example
 ### How to cite
 
 - [generate_vtu.py](./generate_vtu_files/generate_vtu.py) :
-- [print_node_element_output.py](print_node-or-element_outputs/print_node_element_output.py) : [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.soildyn.2022.107366-purple)]
+- [print_node_element_output.py](print_node-or-element_outputs/print_node_element_output.py) : [(https://img.shields.io/badge/DOI-10.1016%2Fj.soildyn.2022.107366-purple)](https://doi.org/10.1016/j.soildyn.2022.107366)
 
 
 
