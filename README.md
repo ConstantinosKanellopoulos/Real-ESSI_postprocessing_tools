@@ -22,8 +22,11 @@ Real-ESSI postprocessors
 ### Required software
 
 - for [generate_vtu.py](./generate_vtu_files/generate_vtu.py) :
-  - python
-  - ParaView
+  - [python](https://www.python.org/)
+  - [ParaView](https://www.paraview.org/)
+
+- for [print_node_element_output.py](print_node-or-element_outputs/print_node_element_output.py)
+  - [python](https://www.python.org/)
 
 
 ### How to run
