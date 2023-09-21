@@ -65,7 +65,7 @@ An example figure from the paper after postpressing the output files with [gener
 - To run [generate_vtu.py](./generate_vtu_files/generate_vtu.py), simply open a terminal and type :
 
 ```bash
-**python generate_vtu.py**
+python generate_vtu.py
 ```
 Note: The .feioutput files should be located one directory above (see in [Examples](./generate_vtu_files/Examples)).
 
