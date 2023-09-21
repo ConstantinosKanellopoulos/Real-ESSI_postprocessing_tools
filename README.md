@@ -3,7 +3,7 @@
 
 ## Description
 
-### > generate_vtu.py
+### generate_vtu.py
 
 - [generate_vtu.py](./generate_vtu_files/generate_vtu.py) is a python script that extracts all nodal displacements from [Real-ESSI](http://real-essi.info/) output files (.feioutput), applies (if requested) a frequency filter, and finally generates .vtu files to visualize displacements in [ParaView](https://www.paraview.org/). For more information refer to [generate_vtu.py](./generate_vtu_files/generate_vtu.py).
 
@@ -26,7 +26,7 @@ An example figure from the paper after postpressing the output files with [gener
 
 
 
-### > print_node_element_output.py
+### print_node_element_output.py
 
 - [print_node_element_output.py](print_node-or-element_outputs/print_node_element_output.py) is a python script that reads [Real-ESSI](http://real-essi.info/) output files (.feioutput) and generates a multiple_results.txt file with the requested node/element output(s) (e.g. acceleration time history of the requested node in x direction). For more information refer to [print_node_element_output.py](print_node-or-element_outputs/print_node_element_output.py).
 
@@ -67,14 +67,14 @@ An example figure from the paper after postpressing the output files with [gener
 ```bash
 python generate_vtu.py
 ```
-Note: The .feioutput files should be located one directory above (see in [Examples](./generate_vtu_files/Examples))
+Note: The .feioutput files should be located one directory above (see in [Examples](./generate_vtu_files/Examples)).
 
 - To run [print_node_element_output.py](print_node-or-element_outputs/print_node_element_output.py), simply open a terminal and type:
 
 ```bash
 python print_node_element_output.py
 ```
-Note: The .feioutput files should be located in the same directory (see [Example](./print_node-or-element_outputs/Example))
+Note: The .feioutput files should be located in the same directory (see [Example](./print_node-or-element_outputs/Example)).
 
 
 
@@ -82,7 +82,7 @@ Note: The .feioutput files should be located in the same directory (see [Example
 
 - [generate_vtu.py](./generate_vtu_files/generate_vtu.py) :
 
-- [print_node_element_output.py](print_node-or-element_outputs/print_node_element_output.py) :  [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.soildyn.2022.107366-purple)](https://doi.org/10.1016/j.soildyn.2022.107366)
+- [print_node_element_output.py](print_node-or-element_outputs/print_node_element_output.py) :  [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.soildyn.2022.107366-purple)](https://scholar.googleusercontent.com/scholar.bib?q=info:am7qLM6NajEJ:scholar.google.com/&output=citation&scisdr=ClEx7bJVEImSsq-Ahtc:AFWwaeYAAAAAZQyGntdNvYlZh466b9In7-f1nWk&scisig=AFWwaeYAAAAAZQyGnv2qx-li-mqKwxgWEKM10G8&scisf=4&ct=citation&cd=-1&hl=el)
 
 
 
