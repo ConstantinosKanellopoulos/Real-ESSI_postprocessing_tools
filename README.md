@@ -23,6 +23,14 @@ An example figure from the paper after postpressing the output files with [gener
 
 - [print_node_element_output.py](print_node-or-element_outputs/print_node_element_output.py) is a python script that reads [Real-ESSI](http://real-essi.info/) output files (.feioutput) and generates a multiple_results.txt file with the requested node/element output(s) (e.g. acceleration time history of the requested node in x direction). For more information refer to [print_node_element_output.py](print_node-or-element_outputs/print_node_element_output.py).
 
+This script was initially created for the needs of the paper: 
+<p align="center">
+<strong>" [Seismic resonant metamaterials for the protection of an elastic-plastic SDOF system against vertically propagating seismic shear waves (SH) in nonlinear soil](https://doi.org/10.1016/j.soildyn.2022.107366) "</strong>
+</p>
+
+
+ 
+
 
 ### Required software
 
@@ -49,6 +57,11 @@ Note: The .feioutput files should be located one directory above (see in [Exampl
 python print_node_element_output.py
 ```
 Note: The .feioutput files should be located in the same directory (see [Example](./print_node-or-element_outputs/Example))
+
+
+### How to cite
+
+If you use any of the 
 
 
 ### Licence
