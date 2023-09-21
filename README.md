@@ -31,13 +31,19 @@ Real-ESSI postprocessors
 
 ### How to run
 
-To run [generate_vtu.py](./generate_vtu_files/generate_vtu.py), simply open a terminal and type:
+- To run [generate_vtu.py](./generate_vtu_files/generate_vtu.py), simply open a terminal and type:
 
 ```bash
 python generate_vtu.py
 ```
+Note: The .feioutput files should be located one directory above (see in [Examples](./generate_vtu_files/Examples))
 
-Note: The .feioutput files should be located one directory above (as in [Examples](./generate_vtu_files/Examples))
+- To run [print_node_element_output.py](print_node-or-element_outputs/print_node_element_output.py), simply open a terminal and type:
+
+```bash
+python print_node_element_output.py
+```
+Note: The .feioutput files should be located in the same directory (see [Example](./print_node-or-element_outputs/Example))
 
 
 ### Licence
