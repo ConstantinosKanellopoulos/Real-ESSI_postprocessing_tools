@@ -55,7 +55,6 @@ Note: The .feioutput files should be located one directory above (see in [Exampl
 python print_node_element_output.py
 ```
 Note: The .feioutput files should be located in the same directory (see [Example](./print_node-or-element_outputs/Example))
-=========
 
 
 ### How to cite
