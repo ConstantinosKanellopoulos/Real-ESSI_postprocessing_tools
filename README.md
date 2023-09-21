@@ -8,7 +8,7 @@
 - [generate_vtu.py](./generate_vtu_files/generate_vtu.py) is a python script that extracts all nodal displacements from [Real-ESSI](http://real-essi.info/) output files (.feioutput), applies (if requested) a frequency filter, and finally generates .vtu files to visualize displacements in [ParaView](https://www.paraview.org/). For more information refer to [generate_vtu.py](./generate_vtu_files/generate_vtu.py).
 
 >[!IMPORTANT]
->This script was initially created for the needs of the paper: 
+>This script was initially developed for the paper: 
 
 <p align="center">
 <strong>" Dynamic Structure-Soil-Structure Interaction for Nuclear Power Plants "</strong>
@@ -31,7 +31,7 @@ An example figure from the paper after postpressing the output files with [gener
 - [print_node_element_output.py](print_node-or-element_outputs/print_node_element_output.py) is a python script that reads [Real-ESSI](http://real-essi.info/) output files (.feioutput) and generates a multiple_results.txt file with the requested node/element output(s) (e.g. acceleration time history of the requested node in x direction). For more information refer to [print_node_element_output.py](print_node-or-element_outputs/print_node_element_output.py).
 
 >[!IMPORTANT]
->This script was initially created for the needs of the paper: 
+>This script was initially developed for the paper: 
 
 <!-- <p align="center">
   <strong><a href="https://doi.org/10.1016/j.soildyn.2022.107366">Seismic resonant metamaterials for the protection of an elastic-plastic SDOF system against vertically propagating seismic shear waves (SH) in nonlinear soil</a></strong>
@@ -79,6 +79,8 @@ Note: The .feioutput files should be located in the same directory (see [Example
 
 
 ## How to cite
+
+If you would like to cite any of the scripts, please give reference to the corresponding journal paper :
 
 - [generate_vtu.py](./generate_vtu_files/generate_vtu.py) :
 
