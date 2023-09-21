@@ -8,9 +8,9 @@ Real-ESSI postprocessors
 
 **This script was initially created for the needs of the paper: Dynamic Structure-Soil-Structure Interaction for Nuclear Power Plants**
 
-<p align="center">
+<!-- <p align="center"> -->
   <img src="https://github.com/ConstantinosKanellopoulos/images_for_my_repo/blob/master/NPP_reactor_tied_and_nonlinear_interfaces_filtered.png" width="500" height="300" >
-</p>
+<!-- </p> -->
 
 <!-- <p align="center">
 <strong>Figure: Snapshots of filtered displacement contours (10-13 Hz) for nonlinear (left) and tied (right) soil-NPP reactor building interfaces.</strong>
