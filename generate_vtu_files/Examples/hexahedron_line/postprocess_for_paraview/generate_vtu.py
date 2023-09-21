@@ -436,7 +436,7 @@ if filter_OnOff == 1:
     print("uz_filt done")
     plt.plot( t_interpolated, ux_filt[node-1,:], '-r', linewidth=2, label='filtered at '+str(Fmin)+'-'+str(Fmax)+' Hz' )
     plt.legend()
-    plt.savefig("displacement_time_histories_ALL_"+str(Fmin)+"-"+str(Fmax)+"Hz.png")
+    plt.savefig("displacement_time_histories_ALL_"+str(Fmin)+"-"+str(Fmax)+"Hz.png", bbox_inches='tight')
 
     #plot the digital filter frequency response 
     w, h = signal.freqz(BB, AA)
@@ -449,7 +449,7 @@ if filter_OnOff == 1:
     ax.set_ylabel('Amplitude [dB]')
     ax.axis((0.1, nyquist, -200, 10))
     ax.grid(which='both', axis='both')
-    plt.savefig('filter_frequency_response_'+str(Fmin)+'-'+str(Fmax)+'Hz.png')
+    plt.savefig('filter_frequency_response_'+str(Fmin)+'-'+str(Fmax)+'Hz.png', bbox_inches='tight')
 
     # Perform Fast Fourier Transform (FFT) for the check node
     fft_result_original = np.fft.fft(ux_xr[node-1,:])
@@ -475,7 +475,7 @@ if filter_OnOff == 1:
     plt.ylabel('Amplitude')
     plt.xlim(0, 30)
     # plt.grid(True)
-    plt.savefig('FFT_ALL_'+str(Fmin)+'-'+str(Fmax)+'Hz.png')
+    plt.savefig('FFT_ALL_'+str(Fmin)+'-'+str(Fmax)+'Hz.png', bbox_inches='tight')
 
     print('#### Filter Applied #####')
 
