@@ -84,7 +84,7 @@ If you would like to cite any of the scripts, please give reference to the corre
 
 - [generate_vtu.py](./generate_vtu_files/generate_vtu.py) :
 
-- [print_node_element_output.py](print_node-or-element_outputs/print_node_element_output.py) :  [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.soildyn.2022.107366-purple)](https://scholar.googleusercontent.com/scholar.bib?q=info:am7qLM6NajEJ:scholar.google.com/&output=citation&scisdr=ClEx7bJVEImSsq-Ahtc:AFWwaeYAAAAAZQyGntdNvYlZh466b9In7-f1nWk&scisig=AFWwaeYAAAAAZQyGnv2qx-li-mqKwxgWEKM10G8&scisf=4&ct=citation&cd=-1&hl=el)
+- [print_node_element_output.py](print_node-or-element_outputs/print_node_element_output.py) :     [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.soildyn.2022.107366-purple)](https://doi.org/10.1016/j.soildyn.2022.107366)
 
 
 
