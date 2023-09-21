@@ -11,6 +11,8 @@ This script was initially created for the needs of the paper:
 <strong>"Dynamic Structure-Soil-Structure Interaction for Nuclear Power Plants"</strong>
 </p>
 
+An example figure from the paper after postpressing the output files with [generate_vtu.py](./generate_vtu_files/generate_vtu.py) follows :
+
 <p align="center">
   <img src="https://github.com/ConstantinosKanellopoulos/images_for_my_repo/blob/master/NPP_reactor_tied_and_nonlinear_interfaces_filtered.png" width="500" height="300" >
 </p>
