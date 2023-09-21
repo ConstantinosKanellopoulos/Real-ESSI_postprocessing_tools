@@ -32,7 +32,7 @@ An example figure from the paper after postpressing the output files with [gener
 
 <p align="center">
   <a href="https://doi.org/10.1016/j.soildyn.2022.107366">
-    <img src="https://img.shields.io/badge/DOI-10.1016%2Fj.soildyn.2022.107366-purple" >
+    <img src="https://img.shields.io/badge/DOI-10.1016%2Fj.soildyn.2022.107366-purple" alt="DOI">
   </a>
 </p>
 
