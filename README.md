@@ -17,7 +17,7 @@
 An example figure from the paper after postpressing the output files with [generate_vtu.py](./generate_vtu_files/generate_vtu.py) follows :
 
 <p align="center">
-  <img src="https://github.com/ConstantinosKanellopoulos/images_for_my_repo/blob/master/NPP_reactor_tied_and_nonlinear_interfaces_filtered.png" width="500" height="300" >
+  <img src="https://github.com/ConstantinosKanellopoulos/images_for_my_repo/blob/master/Real-ESSI_postprocessing_tools/NPP_reactor_tied_and_nonlinear_interfaces_filtered.png" width="500" height="300" >
 </p>
 
 <!-- <p align="center">
