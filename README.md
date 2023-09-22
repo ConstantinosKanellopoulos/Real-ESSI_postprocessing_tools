@@ -96,7 +96,7 @@ If you would like to cite any of the scripts, please give reference to the corre
 
 
 
-## Acknowledgement
+## Acknowledgements
 
 This research was part of the project '[INSPIRE](https://itn-inspire.eu/)' funded by the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement no. 813424. Additional support from [ETH Zurich](https://ethz.ch/en.html) is gratefully acknowledged.
 
