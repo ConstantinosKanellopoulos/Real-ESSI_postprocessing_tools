@@ -1,9 +1,7 @@
 # ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # generate_vtu.py : python script that reads Real-ESSI output files (.feioutput), filters (if requested) the displacements, and creates .vtu files for ParaView
 # ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# authors: Constantinos Kanellopoulos and Giulia Aguzzi(2023)
-# Chair of Structural Dynamics and Earthquake Engineering, Chair of Structural Mechanics
-# ETH, Zurich
+# © 2023 ETH Zurich, Constantinos Kanellopoulos, Giulia Aguzzi; Institute of Structural Engineering; Chair of Structural Dynamics and Earthquake Engineering; Chair of Structural Mechanics
 # ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #! /usr/bin/env python3

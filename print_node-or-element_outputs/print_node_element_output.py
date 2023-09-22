@@ -4,9 +4,7 @@
 # ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Useful reference: Lecture notes of Boris Jeremic (http://sokocalo.engr.ucdavis.edu/~jeremic/LectureNotes/Jeremic_et_al_CompMech_LectureNotes.pdf)
 # ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# authors: Nikolaos Psycharis and Constantinos Kanellopoulos (2022)
-# Chair of Structural Dynamics and Earthquake Engineering
-# ETH, Zurich
+# © 2022 ETH Zurich, Nikolaos Psycharis, Constantinos Kanellopoulos; Institute of Structural Engineering; Chair of Structural Dynamics and Earthquake Engineering
 # ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # import python modules
