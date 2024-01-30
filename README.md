@@ -1,7 +1,7 @@
 # Real-ESSI postprocessing tools
 
 
-## Descriptions
+## Description
 
 ### ``` generate_vtu.py ```
 
