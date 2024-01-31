@@ -124,7 +124,7 @@ if 'Partition' in partition_variable: #checks if you are in parallel
     energy_elements_p = [ [ 0 for i in range(len(energy_elements)) ] for j in range(total_partitions) ]
 
     for i in range(0,total_partitions):
-    	if total_partitions > 98:
+        if total_partitions > 98:
             if i > 98:
                 essi_filename.append(essi_master_filename.replace("feioutput", (str(i+1) + '.feioutput')))
             elif i > 8:
