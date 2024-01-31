@@ -4,6 +4,8 @@
 # ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Useful reference: Lecture notes of Boris Jeremic (http://sokocalo.engr.ucdavis.edu/~jeremic/LectureNotes/Jeremic_et_al_CompMech_LectureNotes.pdf)
 # ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# The latest version of this python script can be found on GitHub : https://github.com/ConstantinosKanellopoulos/Real-ESSI_postprocessing_tools.git
+# ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # © 2022 ETH Zurich, Nikolaos Psycharis, Constantinos Kanellopoulos; Institute of Structural Engineering; Chair of Structural Dynamics and Earthquake Engineering
 # ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
